@@ -1,0 +1,15 @@
+
+## binary
+antman
+*.o
+*.a
+
+## files
+*.txt*
+*.ppm*
+*.lyr*
+
+## editors
+*.vscode
+*#*
+
